@@ -1,19 +1,19 @@
-## Hi, I'm Samantha!
-  👩 I'm a stay at home mom.
-  💻 I’m currently working on starting a new career in technology.
-  📚 I’m currently learning Information Technology through course careers.
-  🎥 I enjoy watching different genre shows and movies in my spare time.
-  👂 I'm all ears for any advice or help on my new career journey.
-  ✨ Fun fact: I worked 2 years at Walt Disney World and did four different jobs. 
-<!--
-**SamanthaB91/SamanthaB91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm Sam, an <a href="https://linkedin.com/in/Josh">IT Professional</a>!</h1>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- 👩 I'm a stay at home mom.
-- 💻 I’m currently working on starting a new career in technology.
-- 📚 I’m currently learning Information Technology through course careers.
-- 🎥 I enjoy watching different genre shows and movies in my spare time.
-- 👂 I'm all ears for any advice or help on my new career journey.
-- ✨ Fun fact: I worked 2 years at Walt Disney World and did four different jobs. 
--->
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/SamanthaB91/osticket-prereqs)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/SamanthaB91/configure-ad)
+  
+
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="samantha-briseno-a34aa080 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nerdytechmom91 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/nerdytechmom91
+[linkedin]: https://www.linkedin.com/in/samantha-briseno-a34aa080
